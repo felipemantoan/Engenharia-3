@@ -24,7 +24,7 @@ Ano: 2016
 
 Semestre: 4
 
-## Requisitos Minimos:
+## Requisitos Mínimos:
 
 Conhecimento de Engenharia de Software
 
