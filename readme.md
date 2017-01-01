@@ -18,6 +18,15 @@ FATEC MOGI MIRIM - Faculdade de Tecnologia Arthur Azevedo
 
 ## Informações Adicionais:
 
+Turma: 2015
+Ano: 2016
+Semestre: 4
+
 ## Requisitos Minimos:
 
-##Lincença:
+Conhecimento de Engenharia de Software
+Astah Community
+Microsoft Word ou LibreOffice
+
+##Licença:
+GPL 2
